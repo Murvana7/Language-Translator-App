@@ -21,3 +21,19 @@ A lightweight web application that translates text between multiple languages in
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - ![Translation API](https://img.shields.io/badge/Translation%20API-000000?style=for-the-badge&logo=api&logoColor=white)
+
+▶️ How to Use
+
+- Enter text in the input field
+
+- Select source and target languages
+
+- Click Translate
+
+- View and copy the translated text instantly
+
+📌 Notes
+
+- Requires an internet connection to access the translation API
+
+- Accuracy depends on the external API provider
