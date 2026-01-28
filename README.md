@@ -32,8 +32,4 @@ A lightweight web application that translates text between multiple languages in
 
 - View and copy the translated text instantly
 
-📌 Notes
 
-- Requires an internet connection to access the translation API
-
-- Accuracy depends on the external API provider
