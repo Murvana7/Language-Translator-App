@@ -23,7 +23,7 @@ A lightweight web application that translates text between multiple languages in
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" />
 </p>
 
-- ![Translation API](https://img.shields.io/badge/Translation%20API-000000?style=for-the-badge&logo=api&logoColor=white)
+![Translation API](https://img.shields.io/badge/Translation%20API-000000?style=for-the-badge&logo=api&logoColor=white)
 
 ▶️ How to Use
 
