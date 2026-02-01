@@ -17,9 +17,12 @@ A lightweight web application that translates text between multiple languages in
 - Text-to-speech support
   
 🛠️ Built With
-- ![HTML5](https://img.shields.io/badge/-HTML5-0b0f1a?style=for-the-badge&logo=html5&logoColor=8b5cf6)
-- ![CSS3](https://img.shields.io/badge/-CSS3-0b0f1a?style=for-the-badge&logo=css3&logoColor=8b5cf6)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-0b0f1a?style=for-the-badge&logo=javascript&logoColor=8b5cf6)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" />
+</p>
+
 - ![Translation API](https://img.shields.io/badge/Translation%20API-000000?style=for-the-badge&logo=api&logoColor=white)
 
 ▶️ How to Use
