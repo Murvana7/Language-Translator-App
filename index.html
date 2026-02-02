@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+  <link rel="stylesheet" href="style.css" />
+  <title>Language Translator App</title>
+</head>
+
+<body>
+  <div class="container">
+    <div class="wrapper">
+      <div class="text-input">
+        <textarea class="from-text" spellcheck="false" placeholder="Enter text"></textarea>
+        <textarea class="to-text" spellcheck="false" placeholder="Translation"></textarea>
+      </div>
+
+      <ul class="controls">
+        <li class="row from">
+          <div class="icons">
+            <i class="fas fa-volume-up speak-from"></i>
+            <i class="fas fa-copy copy-from"></i>
+          </div>
+          <select class="from-lang"></select>
+        </li>
+
+        <li class="exchange">
+          <i class="fas fa-exchange-alt"></i>
+        </li>
+
+        <li class="row to">
+          <select class="to-lang"></select>
+          <div class="icons">
+            <i class="fas fa-volume-up speak-to"></i>
+            <i class="fas fa-copy copy-to"></i>
+          </div>
+        </li>
+      </ul>
+    </div>
+
+    <button class="translate-btn" type="button">Translate Text</button>
+  </div>
+
+  <script src="countries.js"></script>
+  <script src="index.js"></script>
+</body>
+</html>
