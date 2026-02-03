@@ -25,7 +25,7 @@ A lightweight web application that translates text between multiple languages in
 
 ![Translation API](https://img.shields.io/badge/Translation%20API-000000?style=for-the-badge&logo=api&logoColor=white)
 
-▶️ How to Use
+## ▶️ How to Use
 
 - Enter text in the input field
 
